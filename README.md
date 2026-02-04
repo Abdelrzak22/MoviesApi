@@ -25,11 +25,11 @@ WebApplication2/
 └── ApplicationDbContext.cs # Database context
 
  ## API for movie Endpoints
-- `GET /api/movies` - Get all movies
-- `GET /api/movies/{id}` - Get movie by ID
-- `POST /api/movies` - Create new movie
-- `PUT /api/movies/{id}` - Update movie
-- `DELETE /api/movies/{id}` - Delete movie
+- `GET /api/Movie` - Get all movies
+- `GET /api/Movie/{id}` - Get movie by ID
+- `POST /api/Movie` - Create new movie
+- `PUT /api/Movie/{id}` - Update movie
+- `DELETE /api/Movie/{id}` - Delete movie
 ## API for genres Endpoints
 
 - `GET /api/Geners` - Get all movies
